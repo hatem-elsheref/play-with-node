@@ -1,0 +1,12 @@
+// id
+// username
+// name
+// phone
+// has_invitation
+// nominated_by
+// avatar
+// firebase_device_token
+// bio
+// verification_code
+// available_invitations
+// created_at

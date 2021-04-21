@@ -1,0 +1,43 @@
+{
+  "name": "authentication-service",
+  "version": "1.0.0",
+  "description": "build api for authentication for mobile team and clubhouse mobile application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "socket",
+    "io",
+    "jwt",
+    "mongo",
+    "sql",
+    "mysql",
+    "peer",
+    "crypto",
+    "authentication",
+    "mongo"
+  ],
+  "author": "Hatem Mohamed Elsheref",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-query-parser": "^1.2.0",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.10.0",
+    "formidable": "^1.2.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "pug": "^3.0.2",
+    "sequelize": "^6.6.2"
+  }
+}
